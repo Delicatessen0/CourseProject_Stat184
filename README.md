@@ -1,1 +1,2 @@
 # CourseProject_Stat184
+I have chosen three research questions to complete using visuals and narrative text. I chose datasets I found on wikipedia that show the population of each country. I chose to limit to maximum fifteen countries for each research question, so the visuals would not be cluttered. I used methods like data wrangling, tidying, and othe R functions to help me explore each research question. 
